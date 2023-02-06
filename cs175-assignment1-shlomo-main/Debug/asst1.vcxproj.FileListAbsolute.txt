@@ -1,0 +1,3 @@
+C:\gfx\Aclass22\AAAssts\asst1\starter\Debug\asst1.exe
+C:\gfx\AAclass23\AAAssts\asst1\starter\Debug\asst1.exe
+C:\Users\Agnieszka\OneDrive\Pulpit\cs175-assignment1-shlomo-main\Debug\asst1.exe
